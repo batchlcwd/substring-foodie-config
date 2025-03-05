@@ -2,7 +2,7 @@ server:
   port: 9092
 info:
   app:
-    name: "Food Service"
-    description: "This is Food Service. We are developing right now. GitVersion"
+    name: "Food Service."
+    description: "This is Food Service. We are developing right now. GitVersion."
     version: "{cipher}8ee85cb9301b7279949c3222d71c56a7327817aa494717fccea3d0b69bb3910d61a7a6aa906428e566ca096c52bdbb97061a9b080a5e26a613bc4568f6dd971c2847b6799857e09e536004e1695870f1"
 
