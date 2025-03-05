@@ -4,5 +4,5 @@ info:
   app:
     name: "Food Service"
     description: "This is Food Service. We are developing right now. GitVersion"
-    version: "1.0 Under Development"
+    version: "1.0 Under Development: Git Config"
 
